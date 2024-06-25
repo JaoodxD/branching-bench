@@ -13,6 +13,8 @@ Before running benchmark necessary dependencies should be installed:
 
 Each approach will be runned in separate process, after which a summary table with execution statistics and comparisons will be displayed.
 
+![Benchmark example](./benchmarks.png)
+
 # Add new user-defined approaches
 
 To add new approach to be tested and benchmarked, it should fulfil following requirements:  
